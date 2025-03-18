@@ -6,6 +6,6 @@ As part of our ATU Software and Electronic "C++ Programming" final year module. 
 Gif of project goes here!
 ![Digital Rain Effect](/docs/assets/images/digitalraingif.gif)
 
-Link to another web page!
+Link to another web page
 [test](/docs/pages/test_page.md)
 
