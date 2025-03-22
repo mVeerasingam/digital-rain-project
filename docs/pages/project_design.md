@@ -13,17 +13,9 @@ Before diving into the C++ implementation, I researched existing approaches to d
 A key reference for my prototype was this YouTube tutorial:: [Digital Rain in Python](https://www.youtube.com/watch?v=eq-DoIjW4yI). I followed along with the tutorial in Python, using it as a guide to adapt the logic for the C++ implementation.
 
 
-# Design Approach:
+# Object-Oriented Approach:
 
-We have convered Object-Oriented Porgramming (OOP) extensivley throughout this course in ATU. However this is the first time we have used OOP in an algorithmic development setting.
-
-However, this challenge of blending OOP to algorithms, is somethin I have person experience with during my internship at Analog Devices, where I worked with an Algorithms Development Group on C/C++ battery management systems. From my internship, I was collaberating on designing a battery "state of charge" algorithm in OOP fashion, through that I learnt the importance of 
-- Abstracting features like initualizing the algorithm state or when you want to update the algorithm.
-- Encapsulating the core algorithm logic so that we can inherit from other classes that would feed into the algorithm.
-
-With all this in mind...
-
-The design approach I took for this project revolves around a "MatrixColumn" class, which represents individual cascading streams of characters of either "1" or "0". Each column behaves independently, following structured behaviors such as initialization, updating, and rendering to the terminal. The implementation ensures:
+The design approach I took for this project revolves around a "MatrixColumn" class, which represents individual cascading streams of characters of either "1" or "0". Each column behaves independently, following structured behaviors such as initialization, updating, and rendering to the terminal.
 
 - Encapsulation: Each column maintains its own state, controlling the appearance and behavior of falling characters.
 
