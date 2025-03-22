@@ -5,12 +5,10 @@ As part of our ATU Software and Electronic "C++ Programming" final year module. 
 
 ![Digital Rain Effect](/docs/assets/images/digitalraingif.gif)
 
-Link to another web page
+[Design & Test](/docs/pages/project_design.md)
 
-[Project Design](/docs/pages/project_design.md)
+[Algorithm](/docs/pages/algorithms.md)
 
-[Project Research](/docs/pages/project_reserach.md)
+[Problem-solving](/docs/pages/problem_solving.md)
 
-[algorithms](/docs/pages/algorithms.md)
-
-[oop](/docs/pages/oop.md)
+[Modern C++ insight & reflection](/docs/pages/modern_cpp.md)
