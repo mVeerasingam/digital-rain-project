@@ -2,4 +2,4 @@
 
 ## UML Diagram:
 
-![UML Diagram](/docs/assets/images/uml_diagram.png)
+![UML Diagram](/assets/images/uml_diagram.png)
