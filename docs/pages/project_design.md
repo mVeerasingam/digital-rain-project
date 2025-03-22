@@ -8,11 +8,10 @@ Introducing the concepts of objects and inheritance pushed me to be more deliber
 
 # Researching and Prototyping:
 
-Before diving into the C++ implementation, I researched existing approaches to digital rain simulations. While I found various GitHub repositories and YouTube tutorials, many lacked clear explanations of the underlying logic. To bridge this gap, I first prototyped the effect using Python, which allowed for rapid iteration and a deeper understanding of how cascading characters should behave.
+Before diving into the C++ implementation, I researched existing approaches to digital rain simulations. While I found various GitHub repositories and YouTube tutorials in C++. However with this I found that I was focusing too much on the specifics of the language rather than the underlying logic. To address this, I decided to create a simple prototype in Python. The language's clear and readable syntax provided an ideal starting point for understanding the core mechanics of the simulation.
 
-A major reference for my prototype was this YouTube tutorial: [Digital Rain in Python](https://www.youtube.com/watch?v=eq-DoIjW4yI).
+A key reference for my prototype was this YouTube tutorial:: [Digital Rain in Python](https://www.youtube.com/watch?v=eq-DoIjW4yI). I followed along with the tutorial in Python, using it as a guide to adapt the logic for the C++ implementation.
 
-I followed a long with this tutorial in python, letting it be the reference for how I would adopt it to C++.
 
 # Design Approach:
 
