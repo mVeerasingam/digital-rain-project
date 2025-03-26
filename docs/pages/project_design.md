@@ -42,5 +42,4 @@ To ensure robustness, unit tests were implemented, focusing on core functionalit
 Given the graphical nature of the output, automated testing was supplemented with manual observation:
 - **Visual Inspection**: Observing the terminal output to ensure characters flow correctly.
 - **Boundary Testing**: Running the program with different terminal sizes to ensure proper rendering across various dimensions.
-- **Performance Testing**: Checking for smooth rendering without excessive CPU usage, adjusting delays where necessary.
-- **Code Robustness**: Ensuring that changes to class properties (such as the activation probability or character set) affect the rain effect as expected.
+- **Performance Testing**: Checking for smooth rendering without excessive CPU usage, adjusting fields like delays, character printing probability and character spacing where necessary.
